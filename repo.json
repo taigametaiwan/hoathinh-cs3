@@ -1,0 +1,8 @@
+{
+  "name": "Hoat Hinh CS3",
+  "description": "Tong hop 5 nguon hoat hinh cho Cloudstream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/taigametaiwan/hoathinh-cs3/main/plugins.json"
+  ]
+}

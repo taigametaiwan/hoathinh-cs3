@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/taigametaiwan/hoathinh-cs3/main/HH3D.cs3",
+    "status": 1,
+    "version": 2,
+    "apiVersion": 1,
+    "name": "HH3D",
+    "internalName": "HH3D",
+    "authors": [
+      "Community"
+    ],
+    "description": "Cloudstream extension: HH3D. Packaged from supplied CS3 binary.",
+    "repositoryUrl": "https://github.com/taigametaiwan/hoathinh-cs3",
+    "tvTypes": [
+      "Anime"
+    ],
+    "language": "vi",
+    "iconUrl": null,
+    "fileSize": 40049,
+    "fileHash": "sha256-1a1dc46f54bfc42ebf4f7e36b14b9431709a683d375835254746a070c2035ecc"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/taigametaiwan/hoathinh-cs3/main/YanHH3D.cs3",
+    "status": 1,
+    "version": 47,
+    "apiVersion": 1,
+    "name": "YanHH3D",
+    "internalName": "YanHH3D",
+    "authors": [
+      "Community"
+    ],
+    "description": "Cloudstream extension: YanHH3D. Packaged from supplied CS3 binary.",
+    "repositoryUrl": "https://github.com/taigametaiwan/hoathinh-cs3",
+    "tvTypes": [
+      "Anime"
+    ],
+    "language": "vi",
+    "iconUrl": null,
+    "fileSize": 60232,
+    "fileHash": "sha256-d31689f7ec4a34a4508b75c25ceaa1f934109f09015dcd63f091dd0fce090299"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/taigametaiwan/hoathinh-cs3/main/Anime47.cs3",
+    "status": 1,
+    "version": 2,
+    "apiVersion": 1,
+    "name": "Anime47 Direct",
+    "internalName": "Anime47",
+    "authors": [
+      "Community"
+    ],
+    "description": "Cloudstream extension: Anime47 Direct. Packaged from supplied CS3 binary.",
+    "repositoryUrl": "https://github.com/taigametaiwan/hoathinh-cs3",
+    "tvTypes": [
+      "Anime"
+    ],
+    "language": "vi",
+    "iconUrl": "https://anime47.best/icons/android-chrome-512x512.png",
+    "fileSize": 402625,
+    "fileHash": "sha256-1af7a8d3805da0df7eb69a8ff875d6329bfb5f9a62052f0eb9a3d86dbe04452b"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/taigametaiwan/hoathinh-cs3/main/AnimeHay.cs3",
+    "status": 1,
+    "version": 26,
+    "apiVersion": 1,
+    "name": "AnimeHayProvider",
+    "internalName": "AnimeHay",
+    "authors": [
+      "Community"
+    ],
+    "description": "Cloudstream extension: AnimeHayProvider. Packaged from supplied CS3 binary.",
+    "repositoryUrl": "https://github.com/taigametaiwan/hoathinh-cs3",
+    "tvTypes": [
+      "Anime"
+    ],
+    "language": "vi",
+    "iconUrl": "https://animehay15.site/themes/img/favicon.ico",
+    "fileSize": 51084,
+    "fileHash": "sha256-ef89cb37b0e29856149277e6c8793e576615687f45bb02efb9642ad4c474cba6"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/taigametaiwan/hoathinh-cs3/main/HHTQProvider.cs3",
+    "status": 1,
+    "version": 30,
+    "apiVersion": 1,
+    "name": "HHTQProvider",
+    "internalName": "HHTQProvider",
+    "authors": [
+      "Community"
+    ],
+    "description": "Cloudstream extension: HHTQProvider. Packaged from supplied CS3 binary.",
+    "repositoryUrl": "https://github.com/taigametaiwan/hoathinh-cs3",
+    "tvTypes": [
+      "Anime"
+    ],
+    "language": "vi",
+    "iconUrl": null,
+    "fileSize": 43897,
+    "fileHash": "sha256-5070b2ee8d73bf64c50d39c2e8ea488bccad184aad59828576f53f4d14d78b69"
+  }
+]
