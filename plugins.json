@@ -2,7 +2,7 @@
   {
     "url": "https://raw.githubusercontent.com/taigametaiwan/hoathinh-cs3/main/HH3D.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "apiVersion": 1,
     "name": "HH3D",
     "internalName": "HH3D",
@@ -16,8 +16,8 @@
     ],
     "language": "vi",
     "iconUrl": null,
-    "fileSize": 40049,
-    "fileHash": "sha256-1a1dc46f54bfc42ebf4f7e36b14b9431709a683d375835254746a070c2035ecc"
+    "fileSize": 43730,
+    "fileHash": "sha256-800e0e37a54126f37f2d9368f00ef0c3b81f438bf16d4185c4ab013131d397d2"
   },
   {
     "url": "https://raw.githubusercontent.com/taigametaiwan/hoathinh-cs3/main/YanHH3D.cs3",
