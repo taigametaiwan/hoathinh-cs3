@@ -82,21 +82,21 @@
   {
     "url": "https://raw.githubusercontent.com/taigametaiwan/hoathinh-cs3/main/HHTQProvider.cs3",
     "status": 1,
-    "version": 30,
+    "version": 2,
     "apiVersion": 1,
-    "name": "HHTQProvider",
-    "internalName": "HHTQProvider",
+    "name": "HHTQr",
+    "internalName": "HHTQ",
     "authors": [
       "Community"
     ],
-    "description": "Cloudstream extension: HHTQProvider. Packaged from supplied CS3 binary.",
+    "description": "Cloudstream extension: HHTQ. Packaged from supplied CS3 binary.",
     "repositoryUrl": "https://github.com/taigametaiwan/hoathinh-cs3",
     "tvTypes": [
       "Anime"
     ],
     "language": "vi",
     "iconUrl": null,
-    "fileSize": 43897,
-    "fileHash": "sha256-5070b2ee8d73bf64c50d39c2e8ea488bccad184aad59828576f53f4d14d78b69"
+    "fileSize": 57849,
+    "fileHash": "sha256-a4628dfa3181ab19b267c3024a5e9056ddf5ea9a395461149d3650b84fa2ffea"
   }
 ]
