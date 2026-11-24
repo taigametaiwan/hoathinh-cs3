@@ -22,7 +22,7 @@
   {
     "url": "https://raw.githubusercontent.com/taigametaiwan/hoathinh-cs3/main/YanHH3D.cs3",
     "status": 1,
-    "version": 47,
+    "version": 48,
     "apiVersion": 1,
     "name": "YanHH3D",
     "internalName": "YanHH3D",
@@ -36,8 +36,8 @@
     ],
     "language": "vi",
     "iconUrl": null,
-    "fileSize": 60232,
-    "fileHash": "sha256-d31689f7ec4a34a4508b75c25ceaa1f934109f09015dcd63f091dd0fce090299"
+    "fileSize": 51855,
+    "fileHash": "sha256-d8ef4a2c83703edc83614be5a981c575abadc674108045c1fe6d097f2af4c540"
   },
   {
     "url": "https://raw.githubusercontent.com/taigametaiwan/hoathinh-cs3/main/Anime47.cs3",
