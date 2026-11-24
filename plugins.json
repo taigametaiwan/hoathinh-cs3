@@ -98,5 +98,25 @@
     "iconUrl": null,
     "fileSize": 57849,
     "fileHash": "sha256-a4628dfa3181ab19b267c3024a5e9056ddf5ea9a395461149d3650b84fa2ffea"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/taigametaiwan/hoathinh-cs3/main/hhkungfu.cs3",
+    "status": 1,
+    "version": 9,
+    "apiVersion": 1,
+    "name": "HHKLocalProxy",
+    "internalName": "hhkungfu",
+    "authors": [
+      "Community"
+    ],
+    "description": "Cloudstream extension: HHKLocalProxy.",
+    "repositoryUrl": "https://github.com/taigametaiwan/hoathinh-cs3",
+    "tvTypes": [
+      "Anime"
+    ],
+    "language": "vi",
+    "iconUrl": null,
+    "fileSize": 45235,
+    "fileHash": "sha256-106d2d0cf459b79fd07a1f2b318bee78aefcba7a348a0bda870a3f11c4fbd69e"
   }
 ]
